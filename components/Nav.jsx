@@ -21,7 +21,7 @@ const Nav = () => {
     setUpProviders();
   }, []);
 
-  console.log(providers);
+  // console.log(providers);
 
   return (
     <nav className="flex-between w-full mb-16 pt-3">
